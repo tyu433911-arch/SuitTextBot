@@ -14,7 +14,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
+    model_name="gemini-2.0-flash",
     system_instruction="""Ты — помощник, который переводит обычный текст в официальный деловой или юридический стиль.
 
 Твоя задача: сохранить смысл сообщения, но переписать его грамотным официальным языком. Убрать разговорные выражения, сленг, эмоции. Добавить формальные обороты, вежливые формулировки и правильную структуру.
