@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dbd80bd-23dc-4d18-96d7-a9827b7eaf2c" name="Changes" comment="5">
+    <list default="true" id="8dbd80bd-23dc-4d18-96d7-a9827b7eaf2c" name="Changes" comment="7">
       <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778959978919</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6">
+      <option name="closed" value="true" />
+      <created>1778960481767</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778960481767</updated>
+    </task>
+    <task id="LOCAL-00006" summary="7">
+      <option name="closed" value="true" />
+      <created>1778960700253</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778960700253</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -99,6 +115,8 @@
     <MESSAGE value="2" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="6" />
+    <MESSAGE value="7" />
+    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
 </project>
